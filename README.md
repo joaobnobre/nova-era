@@ -14,6 +14,7 @@
 7. ![Etapa 7](https://cdn.discordapp.com/attachments/826147268515069987/1141494965004935218/image.png)
 
 ### 3. Para importar o modpack
+- [Clique aqui]([https://prismlauncher.org/download/](https://cdn.modrinth.com/data/RvGAhCyS/versions/zHtdsgTI/BETA%200.3.mrpack)) para baixar o Modpack.
 1. ![Importar 1](https://cdn.discordapp.com/attachments/826147268515069987/1141495085020745768/image.png)
 2. ![Importar 2](https://cdn.discordapp.com/attachments/826147268515069987/1141495143992655952/image.png)
 3. ![Importar 3](https://cdn.discordapp.com/attachments/826147268515069987/1141495301945954434/image.png)
